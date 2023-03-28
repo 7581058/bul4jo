@@ -1,3 +1,4 @@
 ## [member]
 KimDaSeul
 LeeYongSoo
+YangJunYong
